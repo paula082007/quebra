@@ -1,1 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: black;
 
+}
+
+.quebra-cabeça{
+
+     width: 900px;
+     height: 400PX;
+     display: flex;
+     flex-wrap: wrap;
+}
