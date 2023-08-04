@@ -1,13 +1,7 @@
-*{
-    margin: 0;
-    padding: 0;
-    background-color: black;
-
-}
 
 .quebra-cabeça{
 
-     width: 500px;
+     width: 900px;
      height: 400PX;
     font-display: flex;
      flex-wrap: wrap;
