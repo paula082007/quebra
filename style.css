@@ -9,6 +9,6 @@
 
      width: 500px;
      height: 400PX;
-     display: flex;
+    font-display: flex;
      flex-wrap: wrap;
 }
